@@ -8,5 +8,3 @@
      saved message (2018-02-21 04:17:50) = Hello from the UPU team
      
  block #1742 (2018-02-21 01:14:47): hash = 00000000007291483a3130d08f78a5c9f8cfc1250c638297d2d4da10872f8ae2
-
-![2018_02_26_tweet](https://user-images.githubusercontent.com/36079612/36676194-e43ced1c-1b02-11e8-9649-4f5c6f02e84d.png)
