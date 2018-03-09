@@ -1,0 +1,11 @@
+SHA3-256 hash = 90b2389e4420be3c3fb70d6d3215000254c0659a6af461d49795613054481448
+
+for this text:
+
+The UPU team applies here SHA3 (Secure Hash Algorithm 3) which is the latest member of the Secure Hash Algorithm family of standards, released by NIST (National Institute of Standards and Technology) on August 5, 2015. SHA-3 is internally quite different from the MD5-like structure of SHA-1 and SHA-2. https://en.wikipedia.org/wiki/SHA-3 And here one article from today (March 9, 2018): At the Hayden Planetarium, a Joyride Across the Cosmos (by John Schwartz; https://www.nytimes.com/2018/03/09/arts/mars-hayden-planetarium-solar-system.html )
+
+---
+
+The above hash is saved in UPU block #1857 (2018-03-09 21:53:33):
+     hash = 00000000001d37dce8a9139617f526720a9c9879a93755522c3324cf4b9687a7
+     txid = 79f679852045a28acfaeb9f769106934a5f375ace27fdcf857e53ccc8c5d99ce
