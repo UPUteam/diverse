@@ -9,3 +9,7 @@ The UPU team applies here SHA3 (Secure Hash Algorithm 3) which is the latest mem
 The above hash is saved in UPU block #1857 (2018-03-09 21:53:33):
      hash = 00000000001d37dce8a9139617f526720a9c9879a93755522c3324cf4b9687a7
      txid = 79f679852045a28acfaeb9f769106934a5f375ace27fdcf857e53ccc8c5d99ce
+
+See also:
+
+* https://uputeam.github.io/messages.html
